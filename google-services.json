@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440023364049",
+    "project_id": "lostimagematchingapp",
+    "storage_bucket": "lostimagematchingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440023364049:android:1da9ecc1c22ec4738670f0",
+        "android_client_info": {
+          "package_name": "com.group21.lostimagematchingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdX3pO0_a5d7ePM6liDfzKVkuIAf7395Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
